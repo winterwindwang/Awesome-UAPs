@@ -1,7 +1,7 @@
 # Awesome Universal Adversarial Perturbations Approaches
 ## In this repo, we provide some classical UAP approaches.
 
-Note that,some repo base on tensorflow, but we fails to implement them in PyTorch. ⭐ denotes our reproduced version.
+Note that,some repo base on tensorflow, but we fails to implement them in PyTorch. ⭐ denotes our reproduced version. To be continue...
 
 + SV-UAP[CVPR'2018]
 
